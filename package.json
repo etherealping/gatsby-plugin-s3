@@ -41,13 +41,7 @@
         "serverless-s3-sync": "^1.7.1",
         "typescript": "^3.8.3"
     },
-    "dependencies": {
-        "gatsby-plugin-s3": "file:gatsby-plugin-s3",
-        "gatsby-plugin-s3-e2e-tests": "file:gatsby-plugin-s3-e2e-tests",
-        "gatsby-plugin-s3-example-with-redirects": "file:examples\\with-redirects",
-        "gatsby-plugin-s3-example-with-serverless": "file:examples\\with-serverless"
-    },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "main": "index.js",
     "repository": "git@github.com:etherealping/gatsby-plugin-s3.git",
     "author": "Julien Baars <julien.baars@curalie.com>",
